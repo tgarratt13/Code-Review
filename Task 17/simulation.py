@@ -111,7 +111,6 @@ if __name__ == "__main__":
         )
 
 
-
     # PLOT
     plt.figure(figsize=(8, 5))
     plt.title("Mstar={}, Mplanet={}, a={}, e={}, w={}, v0={}, noise_sigma={}".format(
